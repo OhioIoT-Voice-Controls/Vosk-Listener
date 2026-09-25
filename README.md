@@ -1,9 +1,7 @@
 # Vosk Listener <a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
 #### [(Back to Organization Page)](https://github.com/OhioIoT-Voice-Controls)
 
-This code was generated in the linked YouTube video about making a speech-to-text listener on a Raspberry Pi with a USB mic.  See more at:
-
-https://youtu.be/MfQx2uX6iCU
+This code was generated in the linked YouTube video about making a speech-to-text listener on a Raspberry Pi with a USB mic.  See more at:  https://youtu.be/MfQx2uX6iCU
 
 For the same version of this code, but with scripts to build it in a Docker container image, check out out [Vosk Listener w/Docker](https://github.com/OhioIoT-Voice-Controls/Vosk-Listener-With-Docker).
 
