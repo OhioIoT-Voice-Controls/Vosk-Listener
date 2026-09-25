@@ -1,0 +1,13 @@
+# Vosk Listener <a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
+#### [(back to Organization Page)](https://github.com/OhioIoT-MCP)
+
+This code was generated in the linked YouTube video about making a speech-to-text listener on a Raspberry Pi with a USB mic.  See more at:
+
+https://youtu.be/MfQx2uX6iCU
+
+For the same version of this code, but with scripts to build it in a Docker container image, checkout out [Vosk Listener w/Docker](https://github.com/OhioIoT-Voice-Controls/Vosk-Listener-With-Docker).
+
+## About
+<a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
+
+*OhioIoT is an IoT platform designed for small-scale IoT projects.  For more, check out our website at [www.OhioIoT.com](https://www.ohioiot.com).*
