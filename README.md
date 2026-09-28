@@ -4,15 +4,14 @@
 
 This code was generated in the linked YouTube video about making a speech-to-text listener on a Raspberry Pi with a USB mic.  See more at:  [Offline Voice Control](https://youtu.be/oKQ9xvL7ptM)
 
-When I made the video, I manually downloaded the Vosk library and then used it.  It turns out that if you change 
+When I made the video, I manually downloaded the Vosk library and then used it with this line: 
 ```
 model = Model("vosk-model-small-en-us-0.15")
 ```
-to:
+It turns out that if you use the following line instead, the library will download automatically:
 ```
 model = Model(model_name="vosk-model-small-en-us-0.15")
 ```
-it will download the library for you automatically.
 
 Installation Steps (works on Git Bash on Windows):
 ```
