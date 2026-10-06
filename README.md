@@ -25,6 +25,10 @@ pip install -r requirements.txt
 
 For the same version of this code, but with scripts to build it in a Docker container image, check out out [Vosk Listener w/Docker](https://github.com/OhioIoT-Voice-Controls/Vosk-Listener-With-Docker).
 
+The next video and git repo in this series adds MQTT, so our voice commands are sending actual commands out to our IoT system:
+[Video](https://github.com/OhioIoT-Voice-Controls/Vosk-Listener-With-Docker)
+[Code Example](https://github.com/OhioIoT-Voice-Controls/Vosk-Listener-MQTT)
+
 ## About
 <a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
 
